@@ -1,5 +1,4 @@
-# API-GerenciarAtividades-OutSystems
+# Gerenciador de consutas e Filas - OutSystems (Em Desenvolvimento)
 
-Desafio projeto DIO - 
-Agora que aprendemos como fazer um desenvolvimento mobile, deixo-vos o desafio de criar uma aplicação de raiz, aproveitando nossa tabela de users, para gerenciar as atividades do dia-a-dia de acordo com o utilizador logado.
+O APP tem o objetivo de fazer a gestão de uma Clinica de medicina ocupacional, alxiliando no gerenciamento de argendamento e filas, dando prioridade por ordem de chegada.
 
